@@ -33,16 +33,6 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<h3 align="center">My Statistics:</h3>
-
-
-
-| ![Santhila's github stats](https://github-readme-stats.vercel.app/api?username=santhiladevinkalubowila&show_icons=true&theme=tokyonight) | ![Santhila GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhiladevinkalubowila&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhiladevinkalubowila&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=santhiladevinkalubowila&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/santhila kalubowila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="santhila kalubowila" height="30" width="40" /></a>
